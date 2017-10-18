@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_catalog">
+    <sc_catalog action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <background_color>#FFFFFF</background_color>
+        <description>Test NeedIt Catalog</description>
+        <desktop_continue_shopping/>
+        <desktop_home_page/>
+        <desktop_image/>
+        <editors/>
+        <enable_wish_list>false</enable_wish_list>
+        <manager/>
+        <sys_class_name>sc_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-10-13 17:48:56</sys_created_on>
+        <sys_id>f38ebb194f31030081b54aa28110c76f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Catalog NeedIt</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sc_catalog_f38ebb194f31030081b54aa28110c76f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-10-13 17:48:56</sys_updated_on>
+        <title>My Catalog NeedIt</title>
+    </sc_catalog>
+    <sys_translated_text action="delete_multiple" query="documentkey=f38ebb194f31030081b54aa28110c76f"/>
+</record_update>
